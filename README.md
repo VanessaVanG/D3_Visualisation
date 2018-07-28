@@ -5,4 +5,4 @@
 ![png](website_screenshot.png)
 
 ## Note:
-### You need to use http-server to because the data is from a source outside of the app.js file.
+### You need to use http-server to run because the data is from a source outside of the app.js file.
